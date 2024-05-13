@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: bubble-animation
   labels:
-    argocd.argoproj.io/managed-by: myargocds
+    argocd.argoproj.io/managed-by: myargocd
