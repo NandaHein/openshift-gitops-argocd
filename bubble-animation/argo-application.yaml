@@ -10,7 +10,7 @@ spec:
   project: default 
   source: 
     path: bubble-animation/application-mainfest
-    repoURL: https://github.com/ksingh7/argocd-openshift
+    repoURL: https://github.com/NandaHein/openshift-gitops-argocd.git
     targetRevision: main
   syncPolicy: 
     automated:
